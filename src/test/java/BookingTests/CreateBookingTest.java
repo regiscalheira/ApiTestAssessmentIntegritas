@@ -9,7 +9,7 @@ import static io.restassured.RestAssured.*;
 import static io.restassured.matcher.RestAssuredMatchers.*;
 import static org.hamcrest.Matchers.*;
 
-@DisplayName("API Rest Tests of the Create Booking Module")
+@DisplayName("API Rest Tests of The Create Booking Module")
 public class CreateBookingTest {
     private String token;
 
